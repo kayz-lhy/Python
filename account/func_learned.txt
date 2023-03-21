@@ -1,0 +1,5 @@
+字符串处理函数
+列表处理函数
+map() filter() reduce()
+zip() eval()
+bin() oct() hex()

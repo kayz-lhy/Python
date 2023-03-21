@@ -1,0 +1,7 @@
+[ 2023-03-21 01:23:35 ]:successfully add math
+[ 2023-03-21 01:23:35 ]:successfully add PE
+[ 2023-03-21 01:23:35 ]:successfully add english
+[ 2023-03-21 01:23:35 ]:successfully add physics
+[ 2023-03-21 01:23:35 ]:successfully add chemical
+[ 2023-03-21 01:23:35 ]:successfully add a
+[ 2023-03-21 01:23:38 ]:successfully delete subject a
